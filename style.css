@@ -77,13 +77,16 @@
   }
   .skill-img-1{
     width: 200px;
+    height: 200px;
     float: left;
     margin-right: 30px;
+    border-radius: 100%;
   }
   .skill-img-2{
     width: 200px;
     float: right;
     margin-right: 30px;
+    border-radius: 100%;
   }
   .profile
   {
